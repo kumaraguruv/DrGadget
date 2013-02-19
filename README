@@ -1,0 +1,17 @@
+There are several keyboard shortcuts to access functionality that otherwise also is accessible via the context menu:
+
+ESC   - closes the plugin
+ENTER - jumps to item address in disassembly
+O     - toggles item type (offset, value)
+D     - deletes an item
+I     - inserts an item
+E     - edits an item's value
+
+Functionality that is accessible via context menu only:
+
+Load payload     - loads a payload from disk
+Save payload     - saves a payload to disk
+
+Auto analysis I  - tries to determine each item's type (offset, value)
+Reset            - resets each item's type
+Show disassembly - opens a disassembly subwindow 
