@@ -1,17 +1,8 @@
-There are several keyboard shortcuts to access functionality that otherwise also is accessible via the context menu:
+This project is discontinued.
 
-ESC   - closes the plugin
-ENTER - jumps to item address in disassembly
-O     - toggles item type (offset, value)
-D     - deletes an item
-I     - inserts an item
-E     - edits an item's value
+A fork of Dr. Gadget has been created in order to
+achieve something like a "universal" compatibility
+to all of the IDA's supported processor modules.
 
-Functionality that is accessible via context menu only:
-
-Load payload     - loads a payload from disk
-Save payload     - saves a payload to disk
-
-Auto analysis I  - tries to determine each item's type (offset, value)
-Reset            - resets each item's type
-Show disassembly - opens a disassembly subwindow 
+The fork, "Dr.rer.oec.Gadget", is maintained here:
+https://github.com/patois/dr.rer.oec.gadget
